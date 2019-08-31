@@ -1,0 +1,12 @@
+{
+    "workbench.colorTheme": "Monokai",
+    "workbench.settings.editor": "json"
+
+    "workbench.colorCustomizations": {
+        "[Monokai]": {
+            "editor.background": "#2e2c2c"
+        }
+    }
+    
+}
+
